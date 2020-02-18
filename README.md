@@ -8,6 +8,8 @@ chrome blog
 
 https://blog.chromium.org/
 
+https://www.chromium.org/Home/chromium-privacy/privacy-sandbox
+
 articles:
 
 https://digiday.com/media/cookie-collateral-damage/
