@@ -1,9 +1,11 @@
 # 3rd-party-cookies-readlist
 
 w3c github
+
 https://github.com/w3c/web-advertising/blob/master/README.md
 
 chrome blog
+
 https://blog.chromium.org/
 
 articles:
