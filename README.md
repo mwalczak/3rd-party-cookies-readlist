@@ -6,13 +6,13 @@ https://github.com/w3c/web-advertising/blob/master/README.md
 
 chrome blog
 
-https://martechtoday.com/beyond-the-cookie-whats-next-for-attribution-238591
-
 https://blog.chromium.org/
 
 https://www.chromium.org/Home/chromium-privacy/privacy-sandbox
 
 articles:
+
+https://martechtoday.com/beyond-the-cookie-whats-next-for-attribution-238591
 
 https://digiday.com/media/cookie-collateral-damage/
 
