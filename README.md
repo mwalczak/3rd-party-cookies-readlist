@@ -13,3 +13,7 @@ articles:
 https://digiday.com/media/cookie-collateral-damage/
 
 https://digiday.com/media/publishers-planning-end-third-party-cookie/
+
+solutions:
+
+https://www.washingtonpost.com/pr/2019/05/29/washington-posts-jarrod-dicker-opening-fastest-smartest-most-performant-monetization-stack-all-publishers/
